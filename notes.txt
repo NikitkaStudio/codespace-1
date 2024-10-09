@@ -1,0 +1,4 @@
+Use this Codespace as just a PC WITH SHELL
+Don't try QEMU with VNC
+
+- remember, NikitkaStudio
